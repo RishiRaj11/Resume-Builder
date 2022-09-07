@@ -1,0 +1,30 @@
+.container{
+    padding:10px 30px;
+    text-align: center;
+    width: 100%  ;
+    display: flex;
+    align-items: center;
+    background-color: rgb(16, 109, 109);
+    
+
+}
+.container .heading{
+margin: 0 auto;
+max-width: 550px;
+color: black;
+font-size: 2.3rem;
+font-weight: bold; 
+letter-spacing: 1px;
+}
+.heading span{
+background-clip: text;
+color: rgb(38, 148, 211);
+
+}
+.left img{
+    width: 100px;
+   min-width: 40%;
+}
+.right{
+   margin-left: 100px;
+}
